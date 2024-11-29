@@ -1,1 +1,4 @@
-console.log("test test test")
+let woah = () => {
+  console.log("test test test")
+}
+
