@@ -1,4 +1,3 @@
-let woah = () => {
-  console.log("test test test")
+function aa() {
+  console.log(test)
 }
-
